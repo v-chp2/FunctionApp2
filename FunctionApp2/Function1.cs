@@ -5,6 +5,10 @@ using Microsoft.Extensions.Logging;
 
 namespace FunctionApp2
 {
+
+    /// <summary>
+    /// 
+    /// </summary>
     public static class Function1
     {
         [FunctionName("Function1")]
